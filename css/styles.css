@@ -1,0 +1,13 @@
+#container {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 30rem;
+    margin-top: 20rem;
+    margin-left: 45rem;
+    align-items: center;
+    justify-content: center;
+    border: 0.2rem solid whitesmoke;
+    border-radius: 3rem;
+    padding: 3rem;
+}
